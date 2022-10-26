@@ -1,0 +1,15 @@
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\bin\Debug\net6.0\Water_Management.exe
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\bin\Debug\net6.0\Water_Management.deps.json
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\bin\Debug\net6.0\Water_Management.runtimeconfig.json
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\bin\Debug\net6.0\Water_Management.dll
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\bin\Debug\net6.0\Water_Management.pdb
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\obj\Debug\net6.0\Water_Management.csproj.AssemblyReference.cache
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\obj\Debug\net6.0\Water_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\obj\Debug\net6.0\Water_Management.AssemblyInfoInputs.cache
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\obj\Debug\net6.0\Water_Management.AssemblyInfo.cs
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\obj\Debug\net6.0\Water_Management.csproj.CoreCompileInputs.cache
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\obj\Debug\net6.0\Water_Management.dll
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\obj\Debug\net6.0\refint\Water_Management.dll
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\obj\Debug\net6.0\Water_Management.pdb
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\obj\Debug\net6.0\Water_Management.genruntimeconfig.cache
+C:\Users\ht69440\Desktop\Water_Management\Water_Management\obj\Debug\net6.0\ref\Water_Management.dll
